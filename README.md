@@ -1,0 +1,2 @@
+# vscode-netcore
+vscode .netcore
