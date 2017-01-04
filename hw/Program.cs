@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace ConsoleApplication
@@ -14,6 +15,9 @@ namespace ConsoleApplication
 
                 Console.WriteLine(b);
             }
+
+            Dictionary<int, string> dict = new Dictionary<int, string>();
+            dict.Add(1,"fwef");
 
 
             Console.WriteLine("Hello World!");
